@@ -29,8 +29,13 @@ Black wire → LED cathode.
 
 **Tips**
 Use a 220 Ω resistor for 5–9 V supplies. For 3 V, a 100 Ω resistor also works.
+
 Avoid creating solder bridges between adjacent holes unless they are meant to be connected.
 If the LED doesn't light, reverse its orientation and check your solder joints.
 
 **Output**
-Upload your final Soldered board image in final board assembly file link
+<img width="1200" height="1600" alt="WhatsApp Image 2026-07-28 at 11 32 42 AM" src="https://github.com/user-attachments/assets/7f701c76-8f87-4860-8df1-14c811898539" />
+
+<img width="1200" height="1600" alt="WhatsApp Image 2026-07-28 at 11 32 43 AM" src="https://github.com/user-attachments/assets/68eddfcb-0a57-4cb5-bf8a-a8f26090ce50" />
+
+
